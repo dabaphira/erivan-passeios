@@ -36,3 +36,6 @@ Arte original de assets/whatsapp-original.png no repositório felipedesordeiro/d
 
 ## Atualização da imagem principal
 A pedido do usuário, a imagem principal foi substituída por `imgi_7_piscinas-naturais-maragogi-alagoas.png`, fornecida em anexo. O nome identifica Maragogi; o texto alternativo indica Maragogi e uso ilustrativo, sem atribuir a foto à operação Erivan ou a Japaratinga. A imagem de compartilhamento permanece a anterior.
+
+## Fotos das categorias
+As três imagens dos cards foram substituídas pelos anexos fornecidos pelo usuário: jangadas (c208e9cb), buggy (a93b3fb3) e quadriciclos (9f04358f). As ilustrações anteriores foram removidas. Fotos representativas das categorias, sem atribuição dos veículos ou pessoas à operação Erivan.
