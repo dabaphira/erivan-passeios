@@ -33,3 +33,6 @@ Inspiração em tipografia ampla, composição editorial e formas arredondadas. 
 
 ## WhatsApp
 Arte original de assets/whatsapp-original.png no repositório felipedesordeiro/dabaphira, reutilizada a pedido do usuário.
+
+## Atualização da imagem principal
+A pedido do usuário, a imagem principal foi substituída por `imgi_7_piscinas-naturais-maragogi-alagoas.png`, fornecida em anexo. O nome identifica Maragogi; o texto alternativo indica Maragogi e uso ilustrativo, sem atribuir a foto à operação Erivan ou a Japaratinga. A imagem de compartilhamento permanece a anterior.
