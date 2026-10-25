@@ -39,3 +39,6 @@ A pedido do usuário, a imagem principal foi substituída por `imgi_7_piscinas-n
 
 ## Fotos das categorias
 As três imagens dos cards foram substituídas pelos anexos fornecidos pelo usuário: jangadas (c208e9cb), buggy (a93b3fb3) e quadriciclos (9f04358f). As ilustrações anteriores foram removidas. Fotos representativas das categorias, sem atribuição dos veículos ou pessoas à operação Erivan.
+
+## Categoria Jetski
+Serviço e foto adicionados a pedido do usuário. Imagem fornecida: imgi_10_799277786_17960449317203290_3537144266971473828_n.png. Preço, duração e requisitos ficam para confirmação no WhatsApp.
